@@ -1,3 +1,3 @@
 # Northeastern data
 
-Welcome! This is a tentative of a web platform to access *many* data from Northeastern.
+Welcome! This is a tentative of a web platform to access data from Northeastern.
