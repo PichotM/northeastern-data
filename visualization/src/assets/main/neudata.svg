@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="415" height="90" viewBox="0 0 415 90">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 112.5px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "Segoe UI";
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <text id="neudata" class="cls-1" x="-114" y="4"><tspan x="-114">neudata</tspan></text>
+</svg>
